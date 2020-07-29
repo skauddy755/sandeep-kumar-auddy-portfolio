@@ -1,0 +1,32 @@
+.project-title
+{
+    color: sienna;
+}
+
+.project-desc
+{
+    color: rgb(5,25,18);
+    font-weight: lighter;
+}
+.project-card-outer
+{
+    /* z-index: auto; */
+    height: 90%;
+    margin-top: 10%;
+    margin-right: 10%;
+}
+
+.project-column
+{
+    width: 100%;
+    height: 100%;
+}
+
+.project-link
+{
+    text-align: justify;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+}

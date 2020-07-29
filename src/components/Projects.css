@@ -1,0 +1,28 @@
+.projects-pool
+{
+    background-color: rgb(0,40,15);
+    padding-bottom: 20px;
+    /* background-color: rgb(15,10,20); */
+    background-image: url("https://wallpaperaccess.com/full/1288325.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 150vw 200vh;
+    background-attachment: fixed;
+
+}
+
+.projects-section-head
+{
+    color: rgb(130,255,0);
+    text-shadow: 2px -2px 6px black;
+    font-weight: normal;
+    font-family: "candara";
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* border-bottom: solid; */
+    /* border-bottom-color: purple; */
+}
+
+.projects-section-body
+{
+    margin-left: 5%;
+}

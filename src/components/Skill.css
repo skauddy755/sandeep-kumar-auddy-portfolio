@@ -1,0 +1,28 @@
+.card-outer
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10,10,15,0);
+    margin: auto;
+}
+.card-img-wrapper
+{
+    height: 80%;
+    padding: 1px;
+    margin: 1px;
+}
+.card-img
+{
+    height: 100%;
+    width: 100%;
+    padding: 5%;
+
+}
+.card-body
+{
+    height: 20%;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10%;
+}

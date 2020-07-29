@@ -1,0 +1,17 @@
+.column
+{
+    width: 98%;
+    margin-top: 1%;
+    padding-top: 2%;
+    margin-bottom: 1%;
+    padding-bottom: 2%;
+    /* background-color: black; */
+}
+.skill-category-name
+{
+    color: blanchedalmond;
+    border-bottom: solid;
+    border-bottom-color: crimson;
+    border-bottom-width: 1%;
+    padding-bottom: 1%;
+}

@@ -1,0 +1,56 @@
+.footer
+{
+    background-color: rgb(10,0,15);
+}
+
+.footer-info
+{
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+
+.footer-social-icon
+{
+    color: white;
+    padding-left: 2px;
+}
+
+.footer-social-icon :hover
+{
+    color: aqua;
+    font-size: xx-large;
+    padding-left: 2px;
+}
+
+.footer-info-btn
+{
+    color:white;
+}
+.footer-info-btn :hover
+{
+    color: rgb(255,255,80);
+}
+
+.footer-info-content
+{
+    color: aquamarine;
+    font-family: candera;
+    font-weight: lighter;
+}
+
+.footer-top-icon-container
+{
+    text-align: right;
+}
+
+.footer-top-icon
+{
+    color: orange;
+}
+
+.footer-top-icon :hover
+{
+    text-align: right;
+    color: yellow;
+}

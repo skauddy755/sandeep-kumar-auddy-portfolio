@@ -1,0 +1,27 @@
+.educations-pool
+{
+    background-color: rgb(50, 10, 5);
+    padding-bottom: 20px;
+    /* background-color: rgb(15,10,20); */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2Mab39SWF-DY5eN9kkQ-pbiGBwiN7MwQxdg&usqp=CAU");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+
+.educations-section-head
+{
+    color: rgb(255,180,0);
+    text-shadow: 2px -2px 6px black;
+    font-weight: normal;
+    font-family: "candara";
+    /* border-bottom: solid; */
+    /* border-width: 1%; */
+    /* border-bottom-color: darkgreen; */
+}
+
+.educations-section-body
+{
+    margin-left: 5%;
+}

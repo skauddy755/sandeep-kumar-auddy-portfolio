@@ -1,0 +1,50 @@
+#brand
+{
+    font-family: "candara";
+    font-weight: lighter;
+    font-stretch: semi-condensed;
+}
+
+.app-navbar-container
+{
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+
+.app-navbar
+{
+    /* scroll-behavior: smooth; */
+    position: sticky;
+    top: 1px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    overflow-block: scroll;
+}
+
+.app-navbar-collapse
+{
+    scroll-behavior: smooth;
+    /* height: fit-content; */
+    overflow-y: auto;
+    overflow-block: scroll;
+    background-color: rgba(100,100,170,0);
+}
+
+.nav-link
+{
+    border-radius: 5px;
+}
+
+.nav-link :hover
+{
+    border-radius: 5px;
+    background-color: rgb(255,200,5);
+    color: black;
+}
+
+.nav-link-h4
+{
+    padding: 1% 1%;
+}
