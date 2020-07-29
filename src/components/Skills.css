@@ -2,12 +2,6 @@
 {
     /* background-color: paleturquoise; */
     background-color: rgb(15,10,20);
-    background-image: url("https://image.freepik.com/free-vector/hexagons-dark-gray-abstract-technology-background_87538-825.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 350vh 100%;
-    
-    background-attachment: fixed;
 }
 
 .section-head
